@@ -1,0 +1,11 @@
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/bin/Debug/netcoreapp2.1/restApp.deps.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/bin/Debug/netcoreapp2.1/restApp.runtimeconfig.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/bin/Debug/netcoreapp2.1/restApp.runtimeconfig.dev.json
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/bin/Debug/netcoreapp2.1/restApp.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/bin/Debug/netcoreapp2.1/restApp.pdb
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.csprojAssemblyReference.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.csproj.CoreCompileInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.AssemblyInfoInputs.cache
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.AssemblyInfo.cs
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.dll
+/Users/greyjedi/TutorialsAndSamples/DotNet/Asp.Net Core 2/restApp/obj/Debug/netcoreapp2.1/restApp.pdb
